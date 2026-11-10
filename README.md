@@ -1,2 +1,9 @@
 # Number-Guessing-Game
-A Python-based Number Guessing Game featuring interactive user input, conditional logic, loops, input validation, and exception handling. Developed as a hands-on project to strengthen fundamental Python programming skills.
+## Features
+
+- Interactive number guessing gameplay
+- Random number generation
+- User input validation
+- Exception handling using try-except
+- Repeated attempts using while loops
+- Win and lose conditions
